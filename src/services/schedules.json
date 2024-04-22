@@ -1,0 +1,176 @@
+{
+  "schedules": [
+    {
+      "day": "monday",
+      "classes": [
+        {
+          "id": 1,
+          "title": "fitness class",
+          "trainer": "Vijay singh Tomad",
+          "morning": {
+            "start": "10:00 AM",
+            "end": "11:30 AM"
+          }
+        },
+        {
+          "id": 2,
+          "title": "muscle training",
+          "trainer": "Ajeet Jaisingwal",
+          "morning": {
+            "start": "8:30 AM",
+            "end": "10:00 AM"
+          },
+          "evening": {
+            "start": "12:00 PM",
+            "end": "1:30 PM"
+          }
+        },
+        {
+          "id": 3,
+          "title": "body building",
+          "trainer": "Pawan Singh",
+          "evening": {
+            "start": "2:00 PM",
+            "end": "3:30 PM"
+          }
+        }
+      ]
+    },
+    {
+      "day": "tuesday",
+      "classes": [
+        {
+          "id": 1,
+          "title": "fitness class",
+          "trainer": "Pawan Singh",
+          "evening": {
+            "start": "2:00 PM",
+            "end": "3:30 PM"
+          }
+        },
+        {
+          "id": 2,
+          "title": "muscle training",
+          "trainer": "Vijay singh Tomad",
+          "evening": {
+            "start": "4:00 PM",
+            "end": "5:30 PM"
+          }
+        },
+        {
+          "id": 3,
+          "title": "body building",
+          "trainer": "Vijay singh Tomad",
+          "morning": {
+            "start": "10:00 AM",
+            "end": "11:30 AM"
+          }
+        }
+      ]
+    },
+    {
+      "day": "wednesday",
+      "classes": [
+        {
+          "id": 1,
+          "title": "fitness class",
+          "trainer": "Vijay singh ",
+          "morning": {
+            "start": "9:00 AM",
+            "end": "10:30 AM"
+          },
+          "evening": {
+            "start": "12:00 PM",
+            "end": "1:30 PM"
+          }
+        },
+        {
+          "id": 4,
+          "title": "yoga training class",
+          "trainer": " Tomad Pawan Singh",
+          "morning": {
+            "start": "10:00 AM",
+            "end": "11:30 AM"
+          }
+        },
+        {
+          "id": 5,
+          "title": "advanced training",
+          "trainer": "Ajeet Jaisingwal",
+          "evening": {
+            "start": "2:00 PM",
+            "end": "3:30 PM"
+          }
+        }
+      ]
+    },
+    {
+      "day":"thursday",
+      "classes": [
+        {
+          "id": 1,
+          "title": "fitness class",
+          "trainer": "Ajeet Jaisingwal",
+          "evening": {
+            "start": "6:00 PM",
+            "end": "7:30 PM"
+          }
+        },
+        {
+          "id": 2,
+          "title": "muscle training",
+          "trainer": " Tomad Pawan Singh ",
+          "evening": {
+            "start": "2:00 PM",
+            "end": "3:30 PM"
+          }
+        },
+        {
+          "id": 5,
+          "title": "advanced training",
+          "trainer": "Vijay singh",
+          "morning": {
+            "start": "11:30 AM",
+            "end": "1:00 PM"
+          }
+        }
+      ]
+    },
+    {
+      "day":"friday",
+      "classes": [
+        {
+          "id": 2,
+          "title": "muscle training",
+          "trainer": "Vijay singh",
+          "evening": {
+            "start": "9:00 PM",
+            "end": "10:30 PM"
+          }
+        },
+        {
+          "id": 3,
+          "title": "body building",
+          "trainer": "Tomad Pawan Singh",
+          "morning": {
+            "start": "11:30 AM",
+            "end": "1:30 PM"
+          },
+          "evening": {
+            "start": "3:30 PM",
+            "end": "5:00 PM"
+          }
+        },
+        {
+          "id": 4,
+          "title": "yoga training class",
+          "trainer": "Ajeet Jaisingwal",
+          "evening": {
+            "start": "2:00 PM",
+            "end": "3:30 PM"
+          }
+        }
+      ]
+    }
+  ]
+}
